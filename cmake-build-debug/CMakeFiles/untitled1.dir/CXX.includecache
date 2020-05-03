@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mihawkcola/CLionProjects/untitled1/Queue.cpp
+Queue.h
+/home/mihawkcola/CLionProjects/untitled1/Queue.h
+thread
+-
+mutex
+-
+atomic
+-
+condition_variable
+-
+iostream
+-
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+fstream
+-
+
+/home/mihawkcola/CLionProjects/untitled1/Queue.h
+thread
+-
+mutex
+-
+atomic
+-
+condition_variable
+-
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+
